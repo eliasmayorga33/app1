@@ -1,3 +1,4 @@
+
 // JavaScript Document
 
 $(document).ready(function (e){
@@ -10,5 +11,4 @@ $(document).ready(function (e){
 	 },false);//ready device
 	 
  });//document
-
 
